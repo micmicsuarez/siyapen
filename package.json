@@ -2,7 +2,7 @@
   "name": "siyapen",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://siyapen.com",
+  "homepage": "https://siyapen.com",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
